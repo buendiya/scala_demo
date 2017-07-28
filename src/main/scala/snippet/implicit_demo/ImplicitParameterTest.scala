@@ -1,8 +1,6 @@
-package src.snippet
+package snippet.implicit_demo
 
-/**
-  * Created by jingsz on 4/6/17.
-  */
+
 object ImplicitParameterTest extends App{
   val value = 3
   val monday = true
